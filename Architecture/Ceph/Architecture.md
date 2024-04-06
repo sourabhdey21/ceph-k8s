@@ -1,6 +1,8 @@
-![Ceph Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDC9M_oGuRQrxzrUc9S0SYs13nRspUXB2XRBOq-VYSgQ&s)
+![Ceph Icon](https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg)
+
 
 ## Ceph Architecture 
+Ceph - a scalable distributed storage system
 
 ### Key Points
 - **Persistent Volumes**: Containers running on Kubernetes interact with Ceph storage resources through persistent volumes.
