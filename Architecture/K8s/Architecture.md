@@ -1,4 +1,4 @@
-<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="100" height="100">
+<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="200" height="200">
 
 ## Kubernetes Architecture
 
@@ -34,4 +34,5 @@
 3. Kubernetes dynamically scales the application based on resource demands, leveraging Ceph's scalable storage backend.
 
 ### High-Level Design Diagram
-![Kubernetes Architecture](https://kubernetes.io/images/kubernetes-horizontal-color.png)
+![Kubernetes Architecture](https://www.opsramp.com/wp-content/uploads/2022/07/Kubernetes-Architecture-1536x972.png)
+
