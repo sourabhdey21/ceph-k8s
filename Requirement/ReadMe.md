@@ -3,12 +3,12 @@
 ### Kubernetes
 | Node Type | CPU Cores | RAM | OS Disk | Network Bandwidth |
 |-----------|-----------|-----|---------|-------------------|
-| Master    | 8         | 16GB| 100GB   | 10Gbps             |
-| Worker    | 8         | 16GB | 100GB  | 10Gbps             |
-| Worker    | 8         | 16GB | 100GB  | 10Gbps             |
+| Master    | 8         | 16GB|  250GB  | 10Gbps            |
+| Worker    | 8         | 16GB | 250GB  | 10Gbps            |
+| Worker    | 8         | 16GB | 250GB  | 10Gbps            |
 
 ### Ceph
-| Node Type | CPU Cores | RAM | OSD Disk | OSD Daemon Disk | Network Bandwidth |
+| Node Type | CPU Cores | RAM | OS Disk | OSD Daemon Disk | Network Bandwidth |
 |-----------|-----------|-----|----------|-----------------|-------------------|
 | Monitor   | 8         | 16GB| -        | -               | 10Gbps            |
 | Monitor   | 8         | 16GB| -        | -               | 10Gbps            |
