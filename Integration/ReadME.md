@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*L72MD87chNupoAKl7qnqBA.png">
+
 # Integration of Ceph and Kubernetes 
 
 ## Prerequisites
