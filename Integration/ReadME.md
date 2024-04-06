@@ -21,3 +21,4 @@
 - Dynamic Resource Allocation: Enables Kubernetes to dynamically scale applications based on resource requirements, leveraging Ceph's scalable storage backend.
 - High Availability: Ceph enhances availability by distributing data across multiple nodes in a cluster, reducing the risk of data loss. 🌟
 
+![Ceph and Kubernetes Integration How it works ?](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*L_Pah_PYuyKwV9UGVYSx_w.png)
