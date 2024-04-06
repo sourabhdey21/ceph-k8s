@@ -1,4 +1,4 @@
-# Ceph Storage and Kubernetes
+# Ceph & Kubernetes <img alt="Rook" src="Documentation/media/logo.svg" width="50%" height="50%">
 
 ## High-Level Design Overview
 
