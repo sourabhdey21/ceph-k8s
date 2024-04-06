@@ -14,8 +14,8 @@
 | Monitor   | 8         | 16GB| -        | -               | 10Gbps            |
 | Monitor   | 8         | 16GB| -        | -               | 10Gbps            |
 | OSD       | 8         | 16GB|250GB     | 250GB    (Demo) | 10Gbps            |
-| OSD       | 8         | 16GB|250GB     | 250GB    (DEMO) | 10Gbps            |
-| OSD       | 8         | 16GB|250GB     | 250GB    (DEMO) | 10Gbps            |
+| OSD       | 8         | 16GB|250GB     | 250GB    (Demo) | 10Gbps            |
+| OSD       | 8         | 16GB|250GB     | 250GB    (Demo) | 10Gbps            |
 | MGR       | 8         | 16GB| -        | -               | 10Gbps            |
 | MGR       | 8         | 16GB| -        | -               | 10Gbps            |
 | MGR       | 8         | 16GB| -        | -               | 10Gbps            |
