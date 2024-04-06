@@ -17,7 +17,7 @@ This project, freelancer-ceph-k8s, integrates Ceph and Kubernetes to provide a s
 ### High-Level Design Diagram
 
 
-![Rook High-Level Architecture](https://rook.io/docs/rook/latest-release/Getting-Started/ceph-storage/Rook%20High-Level%20Architecture.png)
+<img src="https://rook.io/docs/rook/latest-release/Getting-Started/ceph-storage/Rook%20High-Level%20Architecture.png" width="400">
 
 
 
