@@ -1,4 +1,4 @@
-![Ceph Icon](https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" width="200" height="200">
 
 
 ## Ceph Architecture 
