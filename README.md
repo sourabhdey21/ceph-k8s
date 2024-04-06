@@ -1,6 +1,6 @@
 <img src="https://github.com/rook/rook/raw/master/Documentation/media/logo.svg" width="50%" height="50%">
 
-# Ceph Kubernetes 
+# Rook Kubernetes 
 
 ## High-Level Design Overview
 
