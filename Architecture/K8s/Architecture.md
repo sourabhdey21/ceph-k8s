@@ -1,4 +1,4 @@
-<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="500" height="150">
+<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="500" height="100">
 
 ## Kubernetes Architecture
 
