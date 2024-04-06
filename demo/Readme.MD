@@ -11,17 +11,17 @@
 <img src="https://media.licdn.com/dms/image/D5622AQEX6Xt-3BcmPQ/feedshare-shrink_1280/0/1711906278926?e=1715212800&v=beta&t=Bb4q5JwV4f-bhNYm9urUbMn4ZA07A6Dl2exlCLJ9mik" width="500" height="300">
 
 
-
-
-
-<img src="https://media.licdn.com/dms/image/D5622AQEp0sMTNhhrIA/feedshare-shrink_20/0/1711906278913?e=1715212800&v=beta&t=6GMwm5515PIoUjI9eDkC3WIQpGZbbU2asqhQG6UhHlE" width="500" height="300">
-
 ## Ceph Persistent Volume Claims (PVC) and Persistent Volumes (PV) in Kubernetes
 
 ### Key Points
 - **PVC**: A request for storage by a user. It is similar to a Pod. Pods consume node resources and PVCs consume PV resources.
 - **PV**: A piece of storage in the cluster that has been provisioned by an administrator. It is a resource in the cluster just like a node is a cluster resource. PVs are volume plugins like Volumes, but have a lifecycle independent of any individual Pod that uses the PV.
 - **High Availability**: PVCs and PVs in Kubernetes are designed for high availability. They are replicated across multiple nodes in the cluster, reducing the risk of data loss and ensuring that applications have access to their storage even if a node fails.
+
+
+<img src="https://media.licdn.com/dms/image/D5622AQEp0sMTNhhrIA/feedshare-shrink_20/0/1711906278913?e=1715212800&v=beta&t=6GMwm5515PIoUjI9eDkC3WIQpGZbbU2asqhQG6UhHlE" width="500" height="300">
+
+
 
 
 
