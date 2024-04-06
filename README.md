@@ -1,4 +1,5 @@
-# Ceph & Kubernetes <img alt="Rook" src="Documentation/media/logo.svg" width="50%" height="50%">
+
+# Ceph Kubernetes 
 
 ## High-Level Design Overview
 
