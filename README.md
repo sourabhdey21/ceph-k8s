@@ -15,3 +15,9 @@ This project, freelancer-ceph-k8s, integrates Ceph and Kubernetes to provide a s
 3. Kubernetes dynamically scales the application based on resource demands, leveraging Ceph's scalable storage backend.
 
 ### High-Level Design Diagram
+
+
+![Rook High-Level Architecture](https://rook.io/docs/rook/latest-release/Getting-Started/ceph-storage/Rook%20High-Level%20Architecture.png)
+
+
+
