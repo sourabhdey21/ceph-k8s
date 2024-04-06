@@ -1,3 +1,4 @@
+![Rook Logo](https://github.com/rook/rook/raw/master/Documentation/media/logo.svg)
 
 # Ceph Kubernetes 
 
